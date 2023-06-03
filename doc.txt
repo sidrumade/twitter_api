@@ -1,0 +1,5 @@
+python----
+uvicorn main:app --reload
+
+npm---------
+serve -s build
